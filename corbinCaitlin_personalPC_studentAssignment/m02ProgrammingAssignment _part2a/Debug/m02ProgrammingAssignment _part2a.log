@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\caitl\source\repos\m02ProgrammingAssignment _part2a\m02ProgrammingAssignment _part2a\main.cpp(100,9): warning C4244: 'argument': conversion from 'float' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\caitl\source\repos\m02ProgrammingAssignment _part2a\m02ProgrammingAssignment _part2a\main.cpp(233,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  m02ProgrammingAssignment _part2a.vcxproj -> C:\Users\caitl\source\repos\m02ProgrammingAssignment _part2a\Debug\m02ProgrammingAssignment _part2a.exe
